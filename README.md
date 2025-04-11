@@ -13,7 +13,7 @@ How to run the GYM  Management System Project Using PHP and MySQL
 
 6.Import gymdb.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/gym
+7.Run the script http://localhost/Smart Shape Gym
 
 Admin Credential
 Username: admin@gmail.com
